@@ -5,7 +5,7 @@
 angular.module('sparkline', []);
   
 angular.module('sparkline')
-    .directive('jqSparkline', [function () {
+    .directive('sparkline', [function () {
         'use strict';
         return {
             restrict: 'A',
