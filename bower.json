@@ -6,9 +6,9 @@
     "Danny Grove <danny@drgrovellc.com>"
   ],
   "description": "Sparkline Directive",
-  "main": 
-    [ "angular-sparkline.js"
-    , "jquery.sparkline.js"
+  "main": [ 
+      "angular-sparkline.js",
+      "jquery.sparkline.js"
     ],
   "keywords": [
     "sparkline"
